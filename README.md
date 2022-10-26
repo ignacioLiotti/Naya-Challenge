@@ -2,6 +2,8 @@
 
 Hi! Ignacio here, hope this challenge is up to your standars! Let me give you a quick rundown
 
+pd: if you want the naya@challenge.com account to see pre-saved sketches, just use the password naya123
+
 ## DISCLAIMER
 
 For you to see the end result you must go to the Backend folder and simply run "npm run dev", the build version of the frontend will just run everything smoothly,
